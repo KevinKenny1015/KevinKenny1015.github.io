@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title><h1>Kevin's Page</h1></title>
+<head>
+<body>
+
+<table width="100%" border="1" bgcolor="#ffffe6">
+  <tr>
+    <th bgcolor="#ccffff" colspan="2"> <br/><a href="https://www.facebook.com/kevin.kenny.71619">Check Out My Facebook Page;) </a> <p><a href="https://www.youtube.com/watch?v=lYnhckZcllU">This will brighten your day </a>
+	<audio controls>
+  <source src="horse.mp3" type="audio/mpeg">
+</audio>
+	</p></th>
+		<svg height="130" width="500">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"
+      style="stop-color:rgb(255,255,0);stop-opacity:1" />
+      <stop offset="100%"
+      style="stop-color:rgb(255,0,0);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <ellipse cx="356" cy="70" rx="130" ry="55" fill="url(#grad1)" />
+  <text fill="#ffffff" font-size="20" font-family="Verdana"
+  x="295" y="80">Kevin's Page</text>
+</svg>	
+  </tr>
+  <tr>
+    <td width="70%"><u><h3>About Me</h3></u><p>Hello my name is Kevin Kenny I was born and raised in Long Island New York. I am 35% Irish, 20%, German 20% Italian, and 25% Viking. I went to a public elementarty and high school. While in school I played baseball and golf when I turned about 7 and I have been playing ever since. I plan on getting a major in Computer Information Systems and minoring in economics.  
+	<p>Check out this video of <a href="https://www.youtube.com/watch?v=cD4OtzXlJgE" target="_blank">My Home Town</a>.</p>
+	 </p>
+		<hr> 
+		<p> Currently I am a manager at the ups store I work at I have had many years of practice at UPS because my dad owns two stores back in New York. I plan on becoming a car programer for tesla my dads old boss was recently picked by tesla and offered me a job once I graduate. </p></td>
+	<td rowspan="3" width="30%"><h4>FGCU Library where I get most of my studying done</h4>
+	<img src="fgcu lib.jpg" alt="FGCU Library" width="100%" height="300"> <h4> me pitchig back in high school</h4> <img src="kwk pitching.JPG" alt="kevin kenny pitching" width="100%" height="300"> <h4>This is my house in Hampton Bays</h4> <img src="my house in HB.JPG" alt="Mi casa" width="100%" height="300">
+	</td>
+	<canvas id="myCanvas" width="713" height="100" style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.</canvas>
+
+<script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+// Type of gradient
+var grd = ctx.createLinearGradient(0,0,200,500);
+grd.addColorStop(0,"red");
+grd.addColorStop(1,"white");
+// Gradient fill
+ctx.fillStyle = grd;
+ctx.fillRect(0,0,713,100);
+</script>
+  </tr>
+  <tr>
+    <td><u><h3>Where have I been</h3></u>
+	<p> I was born in New york and grew up there my whole life until I came down to Fort Myers for college. I have visited many places in The US actually 42 out of the 50 I have been to to be exact. My favorite place by far has been Italy though it is such a nice area. My grandparent own a vinyard there and it is so awsome when I visit i can help make wine and help drink it to:)</p> 
+	<p style="font-family:courier;"><b>Four countries I have been to!<b/></p>
+	<p> <ol>
+			<li>Germany</li>
+			<li>Ireland</li>
+			<li>Greece</li>
+			<li>Italy</li>
+		</ol></p>	
+  </td>
+  </tr>
+  <tr>
+  	<td><u><h3>Interesting facts</h3></u>
+	<p> <style="font-family:courier;"><font color="green"><b>These are all true facts<b/></font></p>
+	<p> <ul>
+			<li> I can throw a baseball 80mph </li>
+			<li> Sharks will die if they stop swimming </li>
+			<li> I have flown in a private jet </li>
+		</ul></p>
+		<p>
+		<center> That is my life story.</center>
+		</p>
+</td>		
+</table>
+<a href="https://github.com/KevinKenny1015/KevinKenny1015.github.io/blob/master/field%20report.pdf">Check Out Field Report </a>
+
+
+
+</body>
+</html>
+
+	
