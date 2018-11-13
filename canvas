@@ -1,0 +1,13 @@
+<canvas id="myCanvas" width="1462" height="100" style="border:1px solid #d3d3d3;">
+    <script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+// Type of gradient
+var grd = ctx.createLinearGradient(0,0,200,900);
+grd.addColorStop(0,"red");
+grd.addColorStop(1,"white");
+// Gradient fill
+ctx.fillStyle = grd;
+ctx.fillRect(0,0,1462,100);
+</script>
+</canvas>
