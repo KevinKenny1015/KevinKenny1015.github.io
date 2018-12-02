@@ -9,10 +9,10 @@
 
 <table width="100%" border="1" bgcolor="#ffffe6">
   <tr>
-    <th bgcolor="#ccffff" colspan="2"> <br/><a href="https://www.facebook.com/kevin.kenny.71619">Check Out My Facebook Page;) </a> <p><a href="https://www.youtube.com/watch?v=lYnhckZcllU">This will brighten your day </a>
+   <center></center> <th bgcolor="#ccffff" colspan="2"> <br/></center><a href="https://www.facebook.com/kevin.kenny.71619">Check Out My Facebook Page;) </a> <p><a href="https://www.youtube.com/watch?v=lYnhckZcllU">This will brighten your day </a></center>
 <audio src="applause-4.mp3"></audio>
 	</p></th>
-		<svg height="130" width="500">
+		<center><svg height="130" width="500">
   <defs>
     <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"
@@ -24,7 +24,7 @@
   <ellipse cx="356" cy="70" rx="130" ry="55" fill="url(#grad1)" />
   <text fill="#ffffff" font-size="20" font-family="Verdana"
   x="295" y="80">Kevin's Page</text>
-</svg>	
+</svg>	</center>
   </tr>
   <tr>
     <td width="70%"><u><h3>About Me</h3></u><p>Hello my name is Kevin Kenny I was born and raised in Long Island New York. I am 35% Irish, 20%, German 20% Italian, and 25% Viking. I went to a public elementarty and high school. While in school I played baseball and golf when I turned about 7 and I have been playing ever since. I plan on getting a major in Computer Information Systems and minoring in economics.  
@@ -33,7 +33,7 @@
 		<hr> 
 		<p> Currently I am a manager at the ups store I work at I have had many years of practice at UPS because my dad owns two stores back in New York. I plan on becoming a car programer for tesla my dads old boss was recently picked by tesla and offered me a job once I graduate. </p></td>
 	<td rowspan="3" width="30%"><h4>FGCU Library where I get most of my studying done</h4>
-	<img src="fgcu lib.jpg" alt="FGCU Library" width="100%" height="300"> <h4> me pitchig back in high school</h4> <img src="kwk pitching.JPG" alt="kevin kenny pitching" width="100%" height="300"> <h4>This is my house in Hampton Bays</h4> <img src="my house in HB.jpg" alt="Mi casa" width="100%" height="300">
+	<img src="fgcu lib.jpg" alt="FGCU Library" width="100%" height="300"> <h4> Me pitchig back in high school!</h4> <img src="kwk pitching.JPG" alt="kevin kenny pitching" width="100%" height="300"> <h4> My house</h4><img src="myhouseinhb.jpg" alt="My house" width="100%" height="300">
 	</td>
 	<canvas id="myCanvas" width="1462" height="100" style="border:1px solid #d3d3d3;">
     		<script>
@@ -80,5 +80,3 @@
 
 </body>
 </html>
-
-	
